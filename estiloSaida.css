@@ -1,0 +1,35 @@
+﻿body {  
+  font-family : 'Consolas';
+}
+
+.tabuada {  
+  margin : 10px;
+  float  : left;
+}
+
+}
+table {  
+  border-collapse : collapse;
+  border          : 1px solid black;
+}
+
+caption {
+  color            : #FFFFFF;  
+  background-color : #663399;  
+  
+}
+
+th {
+  color            : #FFFFFF;  
+  background-color : #330033; 
+  width            : 70px;  
+}
+
+
+td {    
+  text-indent : 2px;
+}
+
+tr:nth-of-type(odd) {
+  background-color : #F5F5F5;
+}
